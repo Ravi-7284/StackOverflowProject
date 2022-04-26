@@ -8,6 +8,7 @@ using StackOverflowProject.ViewModels;
 using StackOverflowProject.Repositories;
 using AutoMapper;
 using AutoMapper.Configuration;
+using System.Data.SqlClient;
 
 namespace StackOverflowProject.ServiceLayer
 {
